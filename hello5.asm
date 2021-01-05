@@ -1,4 +1,6 @@
-%include "stud_io.inc"
+; 32-bit architecture
+%include "includes/stud_io.inc"
+
 global _start
 
 section .text
